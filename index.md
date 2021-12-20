@@ -2,17 +2,14 @@
 layout: default
 ---
 # WWW'22 Tutorial - Self-Supervised Learning in Recommender systems
-## Description
+### Description
 
-The neural architecture-based recommenders have demonstrated overwhelming advantages over their traditional counterparts. However, the highly sparse user behavioral data often bottlenecks deep
-neural recommendation models to take full advantage of their capacity for better performance. Recently, self-supervised learning (SSL), which can enable training on massive unlabeled data with automatic data annotation, has received tremendous attention across
-multiple fields including recommender systems. Self-supervised recommendation now becomes the latest trend, and it turns out that SSL can significantly improve the recommendation quality by
-designing pretext tasks to discover supervisory signals from the raw data, serving as a natural antidote to the data sparsity issue. In this tutorial, we will systematically introduce the methodologies of
-applying SSL to recommendation. The topics to be covered include: (1) foundation and overview of self-supervised recommendation; (2) a comprehensive taxonomy of existing SSL-driven recommendation methods which is constructed based on the characteristics
-of pretext tasks; (3) how to apply SSL to various recommendation scenarios where different types of data and multiple optimization objectives are involved; (4) limitations in current research and future
-research directions; (5) an opensource toolkit to facilitate empirical comparisons and methodological development of self-supervised recommendation methods.
+The neural architecture-based recommenders have demonstrated overwhelming advantages over their traditional counterparts. However, the highly sparse user behavioral data often bottlenecks deep neural recommendation models to take full advantage of their capacity for better performance. Recently, self-supervised learning (SSL), which can enable training on massive unlabeled data with automatic data annotation, has received tremendous attention across multiple fields including recommender systems. Self-supervised recommendation now becomes the latest trend, and it turns out that SSL can significantly improve the recommendation quality by designing pretext tasks to discover supervisory signals from the raw data, serving as a natural antidote to the data sparsity issue. In this tutorial, we will systematically introduce the methodologies of applying SSL to recommendation. The topics to be covered include: (1) foundation and overview of self-supervised recommendation; (2) a comprehensive taxonomy of existing SSL-driven recommendation methods which is constructed based on the characteristics of pretext tasks; (3) how to apply SSL to various recommendation scenarios where different types of data and multiple optimization objectives are involved; (4) limitations in current research and future research directions; (5) an opensource toolkit to facilitate empirical comparisons and methodological development of self-supervised recommendation methods.
 
-### Header 3
+### Presenters
+
+<b>Junliang Yu</b>  is a third-year Ph.D. student in the School of Information Technology and Electrical Engineering at the University of Queensland, jointly advised by A/Prof. Hongzhi Yin and Prof. Zi (Helen) Huang. He received his Bachelor and Master degrees from Chongqing University. His research interests include recommender systems, social media analytics, deep learning on graphs, and selfsupervised learning. His recent research mainly focuses on efficient and explainable self-supervised learning for recommendation. He has 10+ publications on top-tier international venues such as KDD, WWW, ICDM, CIKM, AAAI, VLDBJ, and TKDE. He also served as the conference PC member of AAAI, CIKM, IJCAI, etc, and the journal reviewer for TOIS, TIST, TNNLS, TKDE, etc. He has rich lecture experience and tutored one relevant course of social media analytics, and also has made oral presentations on multiple top-tier conferences.
+
 
 ```js
 // Javascript code with syntax highlighting.

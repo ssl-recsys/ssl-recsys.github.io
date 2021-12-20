@@ -1,3 +1,5 @@
+![logo_tutorial](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/logo_tutorial.png)
+
 ### Time
 To be announced.
 

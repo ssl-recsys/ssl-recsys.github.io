@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+![logo_tutorial](./logo_tutoral.png)
+
 # Self-Supervised Learning in Recommender systems
 ### Time
 To be announced.
@@ -15,46 +17,9 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 
 <b>Hongzhi Yin</b> works as ARC Future Fellow and associate professor with The University of Queensland, Australia. He is leading the Responsible Big Data Intelligence Lab and was recognized as Field Leader of Data Mining & Analysis in The Australian’s Research 2020 magazine. His current main research interests include recommender system, graph embedding and mining, chatbots, social media analytics and mining, edge machine learning, trustworthy machine learning, decentralized and federated learning, and smart healthcare. He has published 180+ papers in the top conferences and journals, including 100+ CORE A* and 60+ CORE A, such as KDD (x15), IEEE TKDE (x14), SIGIR (x10), WSDM (x6), WWW (x6) and ACM TOIS (x11). He has won 6 Best Paper Awards such as ICDE’19 Best Paper Award, DASFAA’20 Best Student Paper Award, and ACM Computing Reviews’ 21st Annual Best of Computing Notable Books and Articles as well as one invited paper in the special issue of KAIS on the best papers of ICDM 2018. He is currently serving as Associate Editor for Springer Nature Computer Science, Editorial Board of Journal of Computer Science and Technology (JCST), Big Data Networks (specialty section of Frontiers in ICT, Frontiers in Digital Humanities, Frontiers in Big Data and Frontiers in Computer Science), Information, Guest Editors of ACM Transactions on Intelligent Systems and Technology, Information Systems, and World Wide Web. 
 
-#### Header 4
+<b>Tong (Rocky) Chen</b> is a Lecturer with the Data Science Discipline at The University of Queensland. He received his PhD degree in Computer Science from The University of Queensland in 2020. Dr. Chen’s research interests include data mining, machine learning, business intelligence, recommender systems, and predictive analytics. He has 40+ publications on top-tier international venues such as KDD, SIGIR, ICDE, AAAI, IJCAI, ICDM, WWW, TKDE, IJCAI, TOIS, CIKM, as well as the prestigious health informatics journal JBHI. He has been actively providing professional services to over 20 worldleading international conferences/journals in the fields of data mining, information retrieval and AI. For example, his roles include program committee member of IJCAI’21 (SPC), WSDM’21, CIKM’21 and IJCAI’20, reviewer for TKDE, TOIS, TKDD and TNNLS, as well as session chair for conferences CIKM’21, VLDB’20, and DASFAA’20.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
+### Outline
 
 - level 1 item
   - level 2 item
@@ -70,32 +35,5 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
   - level 2 item
 - level 1 item
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

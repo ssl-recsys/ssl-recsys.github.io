@@ -1,5 +1,7 @@
 ![logo_tutorial](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/logo_tutorial.png)
 
+Junliang Yu (jl.yu@uq.edu.au), Hongzhi Yin (h.yin1@uq.edu.au) Tong Chen (tong.chen@uq.edu.au)
+
 ### Time
 To be announced.
 

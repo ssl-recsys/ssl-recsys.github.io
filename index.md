@@ -27,7 +27,7 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
     - Predictive Learning based approaches
     - Generative Learning based approaches
     - Hybrid approaches
--  SSL in Different Recommendation Scenarios
+- SSL in Different Recommendation Scenarios
   - SSL on graphs for recommendation
   - SSL on sequences for recommendation
   - Feature-enhanced SSL for recommendation

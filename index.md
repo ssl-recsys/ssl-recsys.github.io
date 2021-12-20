@@ -1,4 +1,4 @@
-## Header 2
+## Description
 
 The neural architecture-based recommenders have demonstrated overwhelming advantages over their traditional counterparts. However, the highly sparse user behavioral data often bottlenecks deep
 neural recommendation models to take full advantage of their capacity for better performance. Recently, self-supervised learning (SSL), which can enable training on massive unlabeled data with automatic data annotation, has received tremendous attention across

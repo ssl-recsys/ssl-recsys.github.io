@@ -21,19 +21,28 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 
 ### Outline
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- Introduction
+  - Overview of Recommendation
+  - Overview of SSL in Recommendation   
+- Taxonomy of Self-Supervised Recommendation Methods
+  - Definition of Self-Supervised Recommendation
+  - Taxonomy and paradigms
+    - Contrastive Learning based approaches
+    - Predictive Learning based approaches
+    - Generative Learning based approaches
+    - Hybrid approaches
+-  SSL in Different Recommendation Scenarios
+  - SSL on graphs for recommendation
+  - SSL on sequences for recommendation
+  - Feature-enhanced SSL for recommendation
+- Limitations and Future Research Trends
+- Opensource Toolkit for Self-Supervised Recommendation
 
+### Targeted Audience
 
+ The tutorial targets at a broad range of audiences from recommendation and other related areas, including academic and industrial researchers, graduate students, and practitioners. After the tutorial, we expect the audience will have a grasp of basic SSL strategies for enhancing recommendation, and gain real-world practice experiences through working on the released opensource toolkit. As for the prerequisite, basic knowledge of information retrieval and recommendation is preferred, and the tutorial will also introduce the foundation for better audience engagement.
+
+### Tutorial Materials
+
+To be uploaded.
 

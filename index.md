@@ -22,22 +22,22 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 
 ### Outline
 
-- Introduction
+- <b>Introduction</b>
   - Overview of Recommendation
   - Overview of SSL in Recommendation   
-- Taxonomy of Self-Supervised Recommendation Methods
+- <b>Taxonomy of Self-Supervised Recommendation Methods</b>
   - Definition of Self-Supervised Recommendation
   - Taxonomy and paradigms
     - Contrastive Learning based approaches
     - Predictive Learning based approaches
     - Generative Learning based approaches
     - Hybrid approaches
-- SSL in Different Recommendation Scenarios
+- <b>SSL in Different Recommendation Scenarios</b>
   - SSL on graphs for recommendation
   - SSL on sequences for recommendation
   - Feature-enhanced SSL for recommendation
-- Limitations and Future Research Trends
-- Opensource Toolkit for Self-Supervised Recommendation
+- <b>Limitations and Future Research Trends</b>
+- <b>Opensource Toolkit for Self-Supervised Recommendation</b>
 
 <hr>
 

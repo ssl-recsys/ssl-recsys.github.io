@@ -1,7 +1,4 @@
----
-layout: default
----
-![logo_tutorial](https://github.com/ssl-recsys/ssl-recsys.github.io/blob/main/logo_tutorial.png)
+![logo_tutorial](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/logo_tutorial.png)
 
 # Self-Supervised Learning in Recommender systems
 ### Time

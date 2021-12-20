@@ -1,6 +1,5 @@
 ![logo_tutorial](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/logo_tutorial.png)
 
-# Self-Supervised Learning in Recommender systems
 ### Time
 To be announced.
 

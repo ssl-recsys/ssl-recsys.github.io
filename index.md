@@ -1,11 +1,9 @@
 ![logo_tutorial](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/logo_tutorial.png)
-<hr>
 
 ### Time
 To be announced.
 
 <hr>
-
 ### Description
 
 The neural architecture-based recommenders have demonstrated overwhelming advantages over their traditional counterparts. However, the highly sparse user behavioral data often bottlenecks deep neural recommendation models to take full advantage of their capacity for better performance. Recently, self-supervised learning (SSL), which can enable training on massive unlabeled data with automatic data annotation, has received tremendous attention across multiple fields including recommender systems. Self-supervised recommendation now becomes the latest trend, and it turns out that SSL can significantly improve the recommendation quality by designing pretext tasks to discover supervisory signals from the raw data, serving as a natural antidote to the data sparsity issue. In this tutorial, we will systematically introduce the methodologies of applying SSL to recommendation. The topics to be covered include: (1) foundation and overview of self-supervised recommendation; (2) a comprehensive taxonomy of existing SSL-driven recommendation methods which is constructed based on the characteristics of pretext tasks; (3) how to apply SSL to various recommendation scenarios where different types of data and multiple optimization objectives are involved; (4) limitations in current research and future research directions; (5) an opensource toolkit to facilitate empirical comparisons and methodological development of self-supervised recommendation methods.

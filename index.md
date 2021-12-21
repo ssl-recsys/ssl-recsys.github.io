@@ -22,6 +22,7 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 
 ### Outline
 
+This is a 90-minute lecture-style tutorial that includes:
 - <b>Introduction</b>
   - Overview of Recommendation
   - Overview of SSL in Recommendation   

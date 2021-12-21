@@ -18,13 +18,13 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 <table style="border: none;">
 <tr style="border: none;">
 <td align="center">
-<img class="circle--square" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/junliang.jpg" />
+<img class="circlepic" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/junliang.jpg" />
 </td>
 <td align="center">
-<img class="circle--square" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/hongzhi.jpg" />
+<img class="circlepic" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/hongzhi.jpg" />
 </td>
 <td align="center">
-<img class="circle--square" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/tongchen.jpg" />
+<img class="circlepic" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/tongchen.jpg" />
 </td>
 </tr>
 <tr  style="border: none;">

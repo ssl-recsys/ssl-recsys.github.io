@@ -14,6 +14,11 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 
 <hr>
 
+### Teaser Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JW7Ry4h8t4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+
 ### Presenters
 <table style="border: none;">
 <tr style="border: none;">
@@ -71,11 +76,6 @@ This is a 90-minute lecture-style tutorial that includes:
 - <b>Limitations and Future Research Trends</b>
 - <b>Opensource Toolkit for Self-Supervised Recommendation</b>
 
-<hr>
-
-### Teaser Video
-
-<iframe width="800" height="480" src="https://www.youtube.com/embed/JW7Ry4h8t4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 
 ### Targeted Audience

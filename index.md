@@ -1,7 +1,12 @@
 ![logo_tutorial](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/logo_tutorial.png)
 ![uq_logo](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/uq_logo.png)
+
+<br>
+Welcome! This is the page of our tutorial "Self-Supervised Learning in Recommender Systems: Fundamentals and Advances" at The Web Conference (WWW) 2022.
+<hr>
+
 ### Time
-To be announced.
+To be announced (Possibly scheduled to April 25, 2022).
 <hr>
 
 ### Description

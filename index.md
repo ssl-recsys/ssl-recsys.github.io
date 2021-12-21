@@ -14,11 +14,6 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 
 <hr>
 
-### Teaser Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JW7Ry4h8t4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<hr>
-
 ### Presenters
 <table style="border: none;">
 <tr style="border: none;">
@@ -82,6 +77,11 @@ This is a 90-minute lecture-style tutorial that includes:
 
  The tutorial targets at a broad range of audiences from recommendation and other related areas, including academic and industrial researchers, graduate students, and practitioners. After the tutorial, we expect the audience will have a grasp of basic SSL strategies for enhancing recommendation, and gain real-world practice experiences through working on the released opensource toolkit. As for the prerequisite, basic knowledge of information retrieval and recommendation is preferred, and the tutorial will also introduce the foundation for better audience engagement.
 
+<hr>
+
+### Teaser Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JW7Ry4h8t4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 
 ### Tutorial Materials

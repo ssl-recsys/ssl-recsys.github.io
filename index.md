@@ -16,7 +16,7 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 
 ### Teaser Video
 
-<iframe width="1060" height="600" src="https://www.youtube.com/embed/JW7Ry4h8t4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="480" src="https://www.youtube.com/embed/JW7Ry4h8t4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 
 ### Presenters

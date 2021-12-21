@@ -5,7 +5,7 @@
 Welcome! This is the page of our tutorial "Self-Supervised Learning in Recommender Systems: Fundamentals and Advances" at The Web Conference (WWW) 2022.
 
 ### Time
-To be announced (Possibly scheduled to April 25, 2022).
+To be announced.
 <hr>
 
 ### Description

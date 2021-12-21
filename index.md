@@ -4,7 +4,7 @@
 <br>
 Welcome! This is the page of our tutorial "<b>Self-Supervised Learning in Recommendation: Fundamentals and Advances</b>" at The Web Conference (WWW) 2022.
 
-(Last update: 20/12/2021)
+(Last update: 21/12/2021)
 
 ### Time
 To be determined.

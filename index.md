@@ -16,7 +16,7 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 
 ### Teaser Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JW7Ry4h8t4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1060" height="600" src="https://www.youtube.com/embed/JW7Ry4h8t4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 
 ### Presenters
@@ -34,7 +34,7 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 </tr>
 <tr  style="border: none;">
 <td align="center">
-<b>Junliang Yu</b>
+<b>[Junliang Yu](https://scholar.google.com/citations?hl=EN&user=JGuWOUIAAAAJ)</b>
 </td>
 <td align="center">
 <b>Hongzhi Yin</b>

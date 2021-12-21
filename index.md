@@ -34,13 +34,13 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 </tr>
 <tr  style="border: none;">
 <td align="center">
-<b>[Junliang Yu](https://scholar.google.com/citations?hl=EN&user=JGuWOUIAAAAJ)</b>
+<b><a href="https://scholar.google.com/citations?hl=EN&user=JGuWOUIAAAAJ">Junliang Yu</a></b>
 </td>
 <td align="center">
-<b>Hongzhi Yin</b>
+<b><a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a></b>
 </td>
 <td align="center">
-<b>Tong Chen</b>
+<b><a href="https://itee.uq.edu.au/profile/1253/rocky-chen">Tong Chen</a></b>
 </td>
 </tr>
 </table>

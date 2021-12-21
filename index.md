@@ -15,8 +15,8 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 <hr>
 
 ### Presenters
-<table rules="none">
-<tr  rules="none">
+<table style="border: none;">
+<tr style="border: none;">
 <td align="center">
 <img class="circle--square" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/junliang.jpg" />
 </td>
@@ -27,7 +27,7 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 <img class="circle--square" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/tongchen.jpg" />
 </td>
 </tr>
-<tr  rules="none">
+<tr  style="border: none;">
 <td align="center">
 <b>Junliang Yu</b>
 </td>

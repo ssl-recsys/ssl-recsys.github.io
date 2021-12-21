@@ -1,4 +1,4 @@
-![logo_tutorial](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/logo2_tutorial.png)
+![logo_tutorial](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/logo_tutorial.png)
 ![uq_logo](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/uq_logo.png)
 
 <br>

@@ -1,5 +1,5 @@
 ![logo_tutorial](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/logo_tutorial.png)
-![uq_logo](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/uq_logo.png)
+![uq_logo](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/uq_logo2.jpg)
 
 <br>
 Welcome! This is the page of our tutorial "<b>Self-Supervised Learning in Recommender Systems: Fundamentals and Advances</b>" at The Web Conference (WWW) 2022.

@@ -25,6 +25,7 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 </td>
 <td align="center">
 </td>
+<img class="circle--square" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/tongchen.jpg" />
 </tr>
 <tr  rules="none">
 <td align="center">
@@ -33,7 +34,7 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 <td align="center">
 <b>Hongzhi Yin</b>
 </td>
-<td>
+<td align="center">
 <b>Tong Chen</b>
 </td>
 </tr>

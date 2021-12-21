@@ -144,10 +144,10 @@ a {
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
-  opacity: 0.8;
+  opacity: 0.7;
 
   @include large {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
 
   @include medium {

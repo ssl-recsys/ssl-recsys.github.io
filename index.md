@@ -24,8 +24,8 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 <img class="circle--square" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/hongzhi.jpg" />
 </td>
 <td align="center">
-</td>
 <img class="circle--square" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/tongchen.jpg" />
+</td>
 </tr>
 <tr  rules="none">
 <td align="center">

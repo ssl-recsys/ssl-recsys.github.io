@@ -129,7 +129,7 @@ a {
   margin-bottom: 0.1rem;
 
   @include large {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
   }
 
   @include medium {
@@ -147,7 +147,7 @@ a {
   opacity: 0.8;
 
   @include large {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
   }
 
   @include medium {
@@ -167,7 +167,7 @@ a {
   }
 
   @include large {
-    max-width: 75rem;
+    max-width: 72rem;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 0.9rem;

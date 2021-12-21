@@ -15,8 +15,27 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 <hr>
 
 ### Presenters
+<table>
+<tr>
+<td>
+<img class="circle--square" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/junliang.jpg" />
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Junliang Yu
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+</table>
 
-<img class="circle--square" src="junliang.jpg" />
 
 <b>Junliang Yu</b>  is a third-year Ph.D. student in the School of Information Technology and Electrical Engineering at the University of Queensland, jointly advised by A/Prof. Hongzhi Yin and Prof. Zi (Helen) Huang. He received his Bachelor and Master degrees from Chongqing University. His research interests include recommender systems, social media analytics, deep learning on graphs, and selfsupervised learning. His recent research mainly focuses on efficient and explainable self-supervised learning for recommendation. He has 10+ publications on top-tier international venues such as KDD, WWW, ICDM, CIKM, AAAI, VLDBJ, and TKDE. He also served as the conference PC member of AAAI, CIKM, IJCAI, etc, and the journal reviewer for TOIS, TIST, TNNLS, TKDE, etc. 
 

@@ -176,12 +176,12 @@ a {
 
   @include medium {
     padding: 2rem 4rem;
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   @include small {
     padding: 2rem 1rem;
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
   
   kbd {

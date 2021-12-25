@@ -31,7 +31,7 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 </tr>
 <tr  style="border: none;">
 <td align="center">
-<b><a href="https://scholar.google.com/citations?hl=EN&user=JGuWOUIAAAAJ" style="color:#51247a;">Junliang Yu</a></b>
+<b><a href="https://coder-yu.github.io/" style="color:#51247a;">Junliang Yu</a></b>
 </td>
 <td align="center">
 <b><a href="https://sites.google.com/view/hongzhi-yin/home" style="color:#51247a;">Hongzhi Yin</a></b>

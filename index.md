@@ -58,16 +58,16 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 This is a 90-minute lecture-style tutorial that includes:
 - <b>Introduction</b>  (10 mins)
   - Overview of Recommendation
-  - Overview of SSL in Recommendation   
+  - History of SSL in Recommendation   
 - <b>Taxonomy of Self-Supervised Recommendation Methods</b>  (15 mins)
-  - Definition of Self-Supervised Recommendation
-  - Taxonomy and paradigms
+  - Formulation of self-supervised recommendation
+  - Taxonomy and training paradigms
 - <b>Data Augmentation Techniques</b>  (10 mins)
 - <b>SSL Methods for Recomendation</b>  (30 mins)
-   - Contrastive Learning based approaches
-   - Predictive Learning based approaches
-   - Generative Learning based approaches
-   - Hybrid approaches
+   - Contrastive mehthods
+   - Predictive methods
+   - Generative methods
+   - Hybrid methods
 - <b>Opensource Toolkit for Self-Supervised Recommendation</b> (5 mins)
 - <b>Limitations and Future Research Trends</b> (10 mins)
 - <b>Q&A</b> (10 mins)

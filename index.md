@@ -82,3 +82,22 @@ This is a 90-minute lecture-style tutorial that includes:
 ### Teaser Video
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/JW7Ry4h8t4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
+### Our papers on self-supervised recommendation
+
++ [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  <i><b>SIGIR'22</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SimGCL.py) <br>
+Junliang Yu, Hongzhi Yin, Xin Xia, Tong Chen, Lizhen Cui, Quoc Viet Hung Nguyen
++ [	On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation](https://arxiv.org/abs/2204.11091).  <i><b>SIGIR'22</b></i> [[code]]() <br>
+Xin Xia, Hongzhi Yin, Junliang Yu, Qinyong Wang, Guandong Xu, Quoc Viet Hung Nguyen
++ [Self-Supervised Graph Co-Training for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3482388).  <i><b>CIKM'21</b></i> [[code]](https://github.com/xiaxin1998/COTREC) <br>
+Xin Xia, Hongzhi Yin, Junliang Yu, Yingxia Shao, Lizhen Cui
++ [Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation](https://dl.acm.org/doi/10.1145/3459637.3482426).  <i><b>CIKM'21</b></i> [[code]](https://github.com/0411tony/HHGR) <br>
+Junwei Zhang, Min Gao, Junliang Yu, Lei Guo, Jundong Li, Hongzhi Yin
++ [Socially-Aware Self-Supervised Tri-Training for Recommendation](https://dl.acm.org/doi/10.1145/3447548.3467340).  <i><b>KDD'21</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SEPT.py) <br>
+Junliang Yu, Hongzhi Yin, Min Gao, Xin Xia, Xiangliang Zhang, Nguyen Quoc Viet Hung
++ [Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation](https://dl.acm.org/doi/abs/10.1145/3442381.3449844).  <i><b>WWW'21</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/MHCN.py) <br>
+Junliang Yu, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, Xiangliang Zhang
++ [Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/16578).  <i><b>AAAI'21</b></i> [[code]](https://github.com/xiaxin1998/DHCN) <br>
+Xin Xia, Hongzhi Yin, Junliang Yu, Qinyong Wang, Lizhen Cui, Xiangliang Zhang

@@ -79,12 +79,6 @@ This is a 90-minute lecture-style tutorial that includes:
 
 <hr>
 
-### Teaser Video
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/JW7Ry4h8t4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr>
-
 ### Our papers on self-supervised recommendation
 
 + [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  <i><b>SIGIR'22</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SimGCL.py) <br>

@@ -17,33 +17,6 @@ The neural architecture-based recommenders have demonstrated overwhelming advant
 <hr>
 
 ### Presenters
-<table style="border: none;">
-<tr style="border: none;">
-<td align="center">
-<img class="circlepic" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/junliang.jpg" />
-</td>
-<td align="center">
-<img class="circlepic" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/hongzhi.jpg" />
-</td>
-<td align="center">
-<img class="circlepic" src="https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/tongchen.jpg" />
-</td>
-</tr>
-<tr  style="border: none;">
-<td align="center">
-<b><a href="https://coder-yu.github.io/" style="color:#51247a;">Junliang Yu</a></b>
-</td>
-<td align="center">
-<b><a href="https://sites.google.com/view/hongzhi-yin/home" style="color:#51247a;">Hongzhi Yin</a></b>
-</td>
-<td align="center">
-<b><a href="https://itee.uq.edu.au/profile/1253/rocky-chen" style="color:#51247a;">Tong Chen</a></b>
-</td>
-</tr>
-</table>
-
-
-#### Bio
 
 <b>Junliang Yu</b>  is a third-year Ph.D. student in the School of Information Technology and Electrical Engineering at the University of Queensland, jointly advised by A/Prof. Hongzhi Yin and Prof. Zi (Helen) Huang. He received his Bachelor and Master degrees from Chongqing University. His research interests include recommender systems, social media analytics, deep learning on graphs, and self-supervised learning. His recent research mainly focuses on efficient and explainable self-supervised learning for recommendation. He has 10+ publications on top-tier international venues such as KDD, WWW, ICDM, CIKM, AAAI, SIGIR, VLDBJ, and TKDE. He also served as the conference PC member of AAAI, CIKM, IJCAI, etc, and the journal reviewer for TOIS, TIST, TNNLS, TKDE, etc. 
 
